@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gjt/INS/INS_kalman/INS.cpp
+INS.h
+/home/gjt/INS/INS_kalman/INS.h
+eigen3/Eigen/Geometry
+-
+
+/home/gjt/INS/INS_kalman/INS.h
+KalmanFilter.hpp
+/home/gjt/INS/INS_kalman/KalmanFilter.hpp
+eigen3/Eigen/Core
+-
+parameters.h
+/home/gjt/INS/INS_kalman/parameters.h
+memory
+-
+
+/home/gjt/INS/INS_kalman/KalmanFilter.hpp
+eigen3/Eigen/Core
+-
+
+/home/gjt/INS/INS_kalman/parameters.h
+eigen3/Eigen/Core
+-
+vector
+-
+string
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libget_state_transition.a  CMakeFiles/get_state_transition.dir/get_state_transition.cpp.o
+/usr/bin/ranlib libget_state_transition.a

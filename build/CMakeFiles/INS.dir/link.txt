@@ -1,0 +1,2 @@
+/usr/bin/ar qc libINS.a  CMakeFiles/INS.dir/INS.cpp.o
+/usr/bin/ranlib libINS.a
